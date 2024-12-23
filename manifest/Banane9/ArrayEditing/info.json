@@ -1,0 +1,19 @@
+{
+	"name": "ArrayEditing",
+	"id": "ArrayEditing",
+	"description": "A MonkeyLoader mod for Resonite that makes SyncArrays editable in inspectors.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/ResoniteModdingGroup/ArrayEditing",
+  "additionalAuthors": [
+    "Nytra"
+  ],
+	"versions": {
+		"0.1.0": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/ArrayEditing/releases/tag/v0.1.0",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/ArrayEditing/releases/download/v0.1.0/ArrayEditing.nupkg",
+				"sha256": "27a6bd122d79f1fae6bc5c6e82ab4795bbdf18c66d98c057badfa4cf639a27aa"
+			}]
+		}
+	}
+}
