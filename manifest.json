@@ -80,6 +80,23 @@
                         }
                     }
                 },
+                "TypePicker": {
+                    "category": "Inspectors",
+                    "description": "A MonkeyLoader mod for Resonite that adds a type picker into Component Selector / ProtoFlux Node Selector by utilizing Component Selector Additions.",
+                    "name": "TypePicker",
+                    "sourceLocation": "https://github.com/ResoniteModdingGroup/TypePicker",
+                    "versions": {
+                        "3.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b019b5fbf623cd09adc2a31042e30110a455b86023f85e1a5645b18fdd04507d",
+                                    "url": "https://github.com/ResoniteModdingGroup/TypePicker/releases/download/v3.1.0/TypePicker.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ResoniteModdingGroup/TypePicker/releases/tag/v3.1.0"
+                        }
+                    }
+                },
                 "WikiIntegration": {
                     "category": "Inspectors",
                     "description": "A MonkeyLoader mod for Resonite that adds links to the Wiki to Components in Worker Inspectors, and ProtoFlux nodes. ",
