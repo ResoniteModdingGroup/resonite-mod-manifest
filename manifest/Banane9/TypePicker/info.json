@@ -1,0 +1,16 @@
+{
+	"name": "TypePicker",
+	"id": "TypePicker",
+	"description": "A MonkeyLoader mod for Resonite that adds a type picker into Component Selector / ProtoFlux Node Selector by utilizing Component Selector Additions.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/ResoniteModdingGroup/TypePicker",
+	"versions": {
+		"3.1.0": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/TypePicker/releases/tag/v3.1.0",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/TypePicker/releases/download/v3.1.0/TypePicker.nupkg",
+				"sha256": "b019b5fbf623cd09adc2a31042e30110a455b86023f85e1a5645b18fdd04507d"
+			}]
+		}
+	}
+}
