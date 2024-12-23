@@ -1,0 +1,31 @@
+{
+    "objects": {
+        "owo.Nytra": {
+            "author": {
+                "Nytra": {
+                    "url": "https://github.com/Nytra"
+                }
+            },
+            "entries": {
+                "DistantComponentOptimizer": {
+                    "category": "Optimization",
+                    "description": "Limits the update frequency of components that are too far away from you. Configurable. ",
+                    "name": "DistantComponentOptimizer",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteDistantComponentOptimizer",
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6c9d1744a967ef59c9263847256880d003712ab117750209db72237b0344e19e",
+                                    "url": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/download/1.1.0/DistantComponentOptimizer.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/tag/1.1.0"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "schemaVersion": "1.0.1"
+}
