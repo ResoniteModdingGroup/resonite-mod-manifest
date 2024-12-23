@@ -1,0 +1,16 @@
+{
+	"name": "WikiIntegration",
+	"id": "WikiIntegration",
+	"description": "A MonkeyLoader mod for Resonite that adds links to the Wiki to Components in Worker Inspectors, and ProtoFlux nodes. ",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/ResoniteModdingGroup/WikiIntegration",
+	"versions": {
+		"0.1.0": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/WikiIntegration/releases/tag/v0.1.0",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/WikiIntegration/releases/download/v0.1.0/WikiIntegration.nupkg",
+				"sha256": "f7f2664a1175eff14c5877757da149e02d612850f28979f87e3e2bed5c20db7a"
+			}]
+		}
+	}
+}
