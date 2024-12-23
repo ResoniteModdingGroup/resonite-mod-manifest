@@ -1,0 +1,16 @@
+{
+	"name": "ParticleModuleAddRemoveButton",
+	"id": "ParticleModuleAddRemoveButton",
+	"description": "Adds a button to PhotonDust particle module components which quickly adds or removes them from the nearest parent ParticleStyle.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/download/1.0.0/ParticleModuleAddRemoveButton.nupkg",
+				"sha256": "f970aa3ed886ba4e4655621bb1511839f28ec565abd4442ededb91fdf0f54ac6"
+			}]
+		}
+	}
+}
