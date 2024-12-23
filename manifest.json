@@ -9,6 +9,26 @@
                 }
             },
             "entries": {
+                "ArrayEditing": {
+                    "additionalAuthors": {
+                        "Nytra": {}
+                    },
+                    "category": "Inspectors",
+                    "description": "A MonkeyLoader mod for Resonite that makes SyncArrays editable in inspectors.",
+                    "name": "ArrayEditing",
+                    "sourceLocation": "https://github.com/ResoniteModdingGroup/ArrayEditing",
+                    "versions": {
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "27a6bd122d79f1fae6bc5c6e82ab4795bbdf18c66d98c057badfa4cf639a27aa",
+                                    "url": "https://github.com/ResoniteModdingGroup/ArrayEditing/releases/download/v0.1.0/ArrayEditing.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ResoniteModdingGroup/ArrayEditing/releases/tag/v0.1.0"
+                        }
+                    }
+                },
                 "BoundedUIX": {
                     "category": "Inspectors",
                     "description": "Resonite mod that makes UIX elements selectable and editable with the usual Slot gizmos, as well as fixing UIX elements breaking when a parent is inserted. ",
