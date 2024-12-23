@@ -1,0 +1,16 @@
+{
+	"name": "ComponentSelectorAdditions",
+	"id": "ComponentSelectorAdditions",
+	"description": "MonkeyLoader mod for Resonite that overhauls the Component Selector / Protoflux Node Selector to have a search, as well as favorites and recents categories.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/ResoniteModdingGroup/ComponentSelectorAdditions",
+	"versions": {
+		"0.7.0": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/ComponentSelectorAdditions/releases/tag/v0.7.0",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/ComponentSelectorAdditions/releases/download/v0.7.0/ComponentSelectorAdditions.nupkg",
+				"sha256": "38a23fe6131754570e182b30a956c755321e8d234628dc213332248abe2e69b4"
+			}]
+		}
+	}
+}
