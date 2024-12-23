@@ -42,6 +42,23 @@
                             "releaseUrl": "https://github.com/ResoniteModdingGroup/FlexibleContactsSort/releases/tag/v0.6.0"
                         }
                     }
+                },
+                "WikiIntegration": {
+                    "category": "Inspectors",
+                    "description": "A MonkeyLoader mod for Resonite that adds links to the Wiki to Components in Worker Inspectors, and ProtoFlux nodes. ",
+                    "name": "WikiIntegration",
+                    "sourceLocation": "https://github.com/ResoniteModdingGroup/WikiIntegration",
+                    "versions": {
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f7f2664a1175eff14c5877757da149e02d612850f28979f87e3e2bed5c20db7a",
+                                    "url": "https://github.com/ResoniteModdingGroup/WikiIntegration/releases/download/v0.1.0/WikiIntegration.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ResoniteModdingGroup/WikiIntegration/releases/tag/v0.1.0"
+                        }
+                    }
                 }
             }
         },
