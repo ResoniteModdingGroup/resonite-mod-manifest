@@ -1,0 +1,16 @@
+{
+	"name": "FlexibleContactsSort",
+	"id": "FlexibleContactsSort",
+	"description": "MonkeyLoader mod that allows customizing the sorting order of the contacts list. ",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/ResoniteModdingGroup/FlexibleContactsSort",
+	"versions": {
+		"0.6.0": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/FlexibleContactsSort/releases/tag/v0.6.0",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/FlexibleContactsSort/releases/download/v0.6.0/FlexibleContactSorting.nupkg",
+				"sha256": "9878d239bc57bed92cfe549a906f150ef13d050d107110aaff6374a2e2862703"
+			}]
+		}
+	}
+}
