@@ -1,7 +1,7 @@
 {
 	"name": "DistantComponentOptimizer",
 	"id": "DistantComponentOptimizer",
-	"description": "Limits the update frequency of components that are too far away from you. Configurable. ",
+	"description": "Limits the update frequency of components that are too far away from you. Configurable.",
 	"category": "Optimization",
 	"sourceLocation": "https://github.com/Nytra/ResoniteDistantComponentOptimizer",
 	"versions": {
