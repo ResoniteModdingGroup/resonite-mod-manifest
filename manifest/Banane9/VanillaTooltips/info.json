@@ -1,0 +1,16 @@
+{
+	"name": "VanillaTooltips",
+	"id": "VanillaTooltips",
+	"description": "A MonkeyLoader mod for Resonite adds Tooltip label data for the vanilla UI. ",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/ResoniteModdingGroup/VanillaTooltips",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/VanillaTooltips/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/VanillaTooltips/releases/download/v1.0.0/VanillaTooltips.nupkg",
+				"sha256": "fb52431a4c5ef8403d662190d8ed72a858ce85622ccee022640a566c45fa0f0f"
+			}]
+		}
+	}
+}
