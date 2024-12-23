@@ -1,9 +1,9 @@
 # Resonite Mod Manifest
 [![Generate Manifest](https://github.com/resonite-modding-group/resonite-mod-manifest/actions/workflows/generate-manifest.yml/badge.svg)](https://github.com/resonite-modding-group/resonite-mod-manifest/actions/workflows/generate-manifest.yml)
 
-This is a community-managed listing of [Resonite Mod Loader](https://github.com/resonite-modding-group/ResoniteModLoader) mods.
+This is a community-managed listing of [MonkeyLoader](https://github.com/ResoniteModdingGroup/MonkeyLoader.GamePacks.Resonite) mods.
 
-If you have a mod you would like listed, please check out the [Mod Submission](https://github.com/resonite-modding-group/resonite-mod-manifest/wiki/Mod-Submission) guide.
+If you have a mod you would like listed, please check out the [Mod Submission](https://github.com/ResoniteModdingGroup/resonite-mod-manifest/wiki/Mod-Submission) guide.
 
 
 ## Finding Mods
