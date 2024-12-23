@@ -1,5 +1,33 @@
 {
     "objects": {
+        "Banane9": {
+            "author": {
+                "Banane9": {
+                    "icon": "https://avatars.githubusercontent.com/u/2124570?v=4",
+                    "support": "https://paypal.me/Banane9",
+                    "url": "https://github.com/Banane9"
+                }
+            },
+            "entries": {
+                "BoundedUIX": {
+                    "category": "Inspectors",
+                    "description": "Resonite mod that makes UIX elements selectable and editable with the usual Slot gizmos, as well as fixing UIX elements breaking when a parent is inserted. ",
+                    "name": "BoundedUIX",
+                    "sourceLocation": "https://github.com/ResoniteModdingGroup/BoundedUIX",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "509f71ae352e8881dea221fb266f061455c85baa0eeaf09c4c331d605e4c0b32",
+                                    "url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.0.0/BoundedUIX.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/tag/v2.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "owo.Nytra": {
             "author": {
                 "Nytra": {
