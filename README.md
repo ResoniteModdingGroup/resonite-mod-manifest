@@ -1,5 +1,5 @@
 # Resonite Mod Manifest
-[![Generate Manifest](https://github.com/resonite-modding-group/resonite-mod-manifest/actions/workflows/generate-manifest.yml/badge.svg)](https://github.com/resonite-modding-group/resonite-mod-manifest/actions/workflows/generate-manifest.yml)
+[![Generate Manifest](https://github.com/ResoniteModdingGroup/resonite-mod-manifest/actions/workflows/generate-manifest.yml/badge.svg)](https://github.com/ResoniteModdingGroup/resonite-mod-manifest/actions/workflows/generate-manifest.yml)
 
 This is a community-managed listing of [MonkeyLoader](https://github.com/ResoniteModdingGroup/MonkeyLoader.GamePacks.Resonite) mods.
 
