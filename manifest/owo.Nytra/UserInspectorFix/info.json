@@ -1,0 +1,16 @@
+{
+	"name": "UserInspectorFix",
+	"id": "UserInspectorFix",
+	"description": "Fixes the User Inspector not working when you are not the host.",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://github.com/Nytra/ResoniteUserInspectorFix",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteUserInspectorFix/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteUserInspectorFix/releases/download/v1.0.0/UserInspectorFix.nupkg",
+				"sha256": "9001338e9ffc09d59bb455b71b4e318508a5c9b899df0621bed57ec53ffc5a44"
+			}]
+		}
+	}
+}
