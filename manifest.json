@@ -176,6 +176,23 @@
                             "releaseUrl": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/tag/1.0.0"
                         }
                     }
+                },
+                "UserInspectorFix": {
+                    "category": "Bug Workaround",
+                    "description": "Fixes the User Inspector not working when you are not the host.",
+                    "name": "UserInspectorFix",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteUserInspectorFix",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9001338e9ffc09d59bb455b71b4e318508a5c9b899df0621bed57ec53ffc5a44",
+                                    "url": "https://github.com/Nytra/ResoniteUserInspectorFix/releases/download/v1.0.0/UserInspectorFix.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteUserInspectorFix/releases/tag/v1.0.0"
+                        }
+                    }
                 }
             }
         }
