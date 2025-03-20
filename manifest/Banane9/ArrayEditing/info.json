@@ -14,6 +14,13 @@
 				"url": "https://github.com/ResoniteModdingGroup/ArrayEditing/releases/download/v0.1.0/ArrayEditing.nupkg",
 				"sha256": "27a6bd122d79f1fae6bc5c6e82ab4795bbdf18c66d98c057badfa4cf639a27aa"
 			}]
+		},
+		"1.0.1": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/ArrayEditing/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/ArrayEditing/releases/download/v1.0.1/ArrayEditing.nupkg",
+				"sha256": "277011c782882ff6b67691364809b25e237faa2bd482a274cb96678796abd1be"
+			}]
 		}
 	}
 }
