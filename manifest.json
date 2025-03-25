@@ -183,6 +183,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "186e999315213349da2f629b4dd23e97d05d32c30031126c8f1b5f9430d40547",
+                                    "url": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/download/1.0.1/ParticleModuleAddRemoveButton.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/tag/1.0.1"
                         }
                     }
                 },
