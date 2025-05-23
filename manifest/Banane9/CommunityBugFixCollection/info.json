@@ -1,0 +1,24 @@
+{
+	"name": "CommunityBugFixCollection",
+	"id": "CommunityBugFixCollection",
+	"description": "This MonkeyLoader mod for Resonite that fixes various small Resonite-issues that are still open.",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection",
+  "additionalAuthors": [
+    "Nytra",
+    "art0007i",
+    "LeCloutPanda",
+    "goat",
+    "__Choco__",
+    "LJ"
+  ],
+	"versions": {
+		"0.5.0": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection/releases/tag/v0.5.0",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection/releases/download/v0.5.0/CommunityBugFixCollection.nupkg",
+				"sha256": "653ef0fae4b0f021ea68bc682c1f6bad2e6f31e774b0c3c4d05f43a08debbe7f"
+			}]
+		}
+	}
+}
