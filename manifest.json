@@ -55,6 +55,31 @@
                         }
                     }
                 },
+                "CommunityBugFixCollection": {
+                    "additionalAuthors": {
+                        "LJ": {},
+                        "LeCloutPanda": {},
+                        "Nytra": {},
+                        "__Choco__": {},
+                        "art0007i": {},
+                        "goat": {}
+                    },
+                    "category": "Bug Workaround",
+                    "description": "This MonkeyLoader mod for Resonite that fixes various small Resonite-issues that are still open.",
+                    "name": "CommunityBugFixCollection",
+                    "sourceLocation": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection",
+                    "versions": {
+                        "0.5.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "653ef0fae4b0f021ea68bc682c1f6bad2e6f31e774b0c3c4d05f43a08debbe7f",
+                                    "url": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection/releases/download/v0.5.0/CommunityBugFixCollection.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection/releases/tag/v0.5.0"
+                        }
+                    }
+                },
                 "ComponentSelectorAdditions": {
                     "category": "Inspectors",
                     "description": "MonkeyLoader mod for Resonite that overhauls the Component Selector / Protoflux Node Selector to have a search, as well as favorites and recents categories.",
