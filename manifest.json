@@ -198,6 +198,9 @@
                 "UserInspectorFix": {
                     "category": "Bug Workaround",
                     "description": "Fixes the User Inspector not working when you are not the host.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "UserInspectorFix",
                     "sourceLocation": "https://github.com/Nytra/ResoniteUserInspectorFix",
                     "versions": {
