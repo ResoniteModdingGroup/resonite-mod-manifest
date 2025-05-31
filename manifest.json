@@ -114,6 +114,23 @@
                         }
                     }
                 },
+                "InspectorPowerTools": {
+                    "category": "Inspectors",
+                    "description": "This MonkeyLoader mod for Resonite adds a variety of powerful functions to inspectors themselves",
+                    "name": "InspectorPowerTools",
+                    "sourceLocation": "https://github.com/ResoniteModdingGroup/InspectorPowerTools",
+                    "versions": {
+                        "0.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b73a8f7eaf4453135a9a8b770970da6bc1a973f5e318c649919e7de0a43b5abd",
+                                    "url": "https://github.com/ResoniteModdingGroup/InspectorPowerTools/releases/download/v0.1.1/InspectorPowerTools.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ResoniteModdingGroup/InspectorPowerTools/releases/tag/v0.1.1"
+                        }
+                    }
+                },
                 "TypePicker": {
                     "additionalAuthors": {
                         "TheJebForge": {}
