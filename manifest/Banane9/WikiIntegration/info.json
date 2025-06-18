@@ -11,6 +11,13 @@
 				"url": "https://github.com/ResoniteModdingGroup/WikiIntegration/releases/download/v0.1.0/WikiIntegration.nupkg",
 				"sha256": "f7f2664a1175eff14c5877757da149e02d612850f28979f87e3e2bed5c20db7a"
 			}]
+		},
+		"0.6.0": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/WikiIntegration/releases/tag/v0.6.0",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/WikiIntegration/releases/download/v0.6.0/WikiIntegration.nupkg",
+				"sha256": "b6e7308ea8600baa443bd12c242de3a490b2697618ad27443cf8d3c920cdc41c"
+			}]
 		}
 	}
 }
