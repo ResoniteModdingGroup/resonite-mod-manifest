@@ -11,6 +11,13 @@
 				"url": "https://github.com/ResoniteModdingGroup/ComponentSelectorAdditions/releases/download/v0.7.0/ComponentSelectorAdditions.nupkg",
 				"sha256": "38a23fe6131754570e182b30a956c755321e8d234628dc213332248abe2e69b4"
 			}]
+		},
+		"0.9.0": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/ComponentSelectorAdditions/releases/tag/v0.9.0",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/ComponentSelectorAdditions/releases/download/v0.9.0/ComponentSelectorAdditions.nupkg",
+				"sha256": "4b433dcd92fef5fab74287cdc26b166152380297f56f172dfae5ea435f4ef582"
+			}]
 		}
 	}
 }
