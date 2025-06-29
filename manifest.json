@@ -77,6 +77,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection/releases/tag/v0.5.0"
+                        },
+                        "0.6.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "451ec750097592efc55b819427d4b518c8f9c4cf1a4c280136ceb87f7fe7986a",
+                                    "url": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection/releases/download/v0.6.0/CommunityBugFixCollection.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection/releases/tag/v0.6.0"
                         }
                     }
                 },
