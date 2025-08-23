@@ -235,6 +235,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/tag/1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7b1c25832932a6fa1ea9666da50e15fcc19091d0e9d6117ffdd5e739eddb86c6",
+                                    "url": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/download/1.1.1/DistantComponentOptimizer.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/tag/1.1.1"
                         }
                     }
                 },
@@ -261,6 +270,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1315bdccc67db596a25d9ca9fc02924ca1a5330e6326bad678d964d4b80fcd6a",
+                                    "url": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/download/1.0.2/ParticleModuleAddRemoveButton.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/tag/1.0.2"
                         }
                     }
                 },
