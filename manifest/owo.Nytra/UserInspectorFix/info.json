@@ -12,7 +12,8 @@
 			"releaseUrl": "https://github.com/Nytra/ResoniteUserInspectorFix/releases/tag/v1.0.0",
 			"artifacts": [{
 				"url": "https://github.com/Nytra/ResoniteUserInspectorFix/releases/download/v1.0.0/UserInspectorFix.nupkg",
-				"sha256": "9001338e9ffc09d59bb455b71b4e318508a5c9b899df0621bed57ec53ffc5a44"
+				"sha256": "9001338e9ffc09d59bb455b71b4e318508a5c9b899df0621bed57ec53ffc5a44",
+				"installLocation" : "/MonkeyLoader/Mods"
 			}]
 		}
 	}
