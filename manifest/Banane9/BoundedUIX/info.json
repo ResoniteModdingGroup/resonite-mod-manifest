@@ -9,7 +9,8 @@
 			"releaseUrl": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/tag/v2.0.0",
 			"artifacts": [{
 				"url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.0.0/BoundedUIX.nupkg",
-				"sha256": "509f71ae352e8881dea221fb266f061455c85baa0eeaf09c4c331d605e4c0b32"
+				"sha256": "509f71ae352e8881dea221fb266f061455c85baa0eeaf09c4c331d605e4c0b32",
+				"installLocation" : "/MonkeyLoader/Mods"
 			}]
 		}
 	}

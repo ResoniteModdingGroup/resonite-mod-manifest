@@ -12,7 +12,8 @@
 			"releaseUrl": "https://github.com/ResoniteModdingGroup/TypePicker/releases/tag/v3.1.0",
 			"artifacts": [{
 				"url": "https://github.com/ResoniteModdingGroup/TypePicker/releases/download/v3.1.0/TypePicker.nupkg",
-				"sha256": "b019b5fbf623cd09adc2a31042e30110a455b86023f85e1a5645b18fdd04507d"
+				"sha256": "b019b5fbf623cd09adc2a31042e30110a455b86023f85e1a5645b18fdd04507d",
+				"installLocation" : "/MonkeyLoader/Mods"
 			}]
 		}
 	}

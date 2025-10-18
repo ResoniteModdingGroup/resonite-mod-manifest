@@ -9,14 +9,16 @@
 			"releaseUrl": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/tag/1.1.0",
 			"artifacts": [{
 				"url": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/download/1.1.0/DistantComponentOptimizer.nupkg",
-				"sha256": "6c9d1744a967ef59c9263847256880d003712ab117750209db72237b0344e19e"
+				"sha256": "6c9d1744a967ef59c9263847256880d003712ab117750209db72237b0344e19e",
+				"installLocation" : "/MonkeyLoader/Mods"
 			}]
 		},
 		"1.1.1": {
 			"releaseUrl": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/tag/1.1.1",
 			"artifacts": [{
 				"url": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/download/1.1.1/DistantComponentOptimizer.nupkg",
-				"sha256": "7b1c25832932a6fa1ea9666da50e15fcc19091d0e9d6117ffdd5e739eddb86c6"
+				"sha256": "7b1c25832932a6fa1ea9666da50e15fcc19091d0e9d6117ffdd5e739eddb86c6",
+				"installLocation" : "/MonkeyLoader/Mods"
 			}]
 		}
 	}

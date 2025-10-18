@@ -9,21 +9,24 @@
 			"releaseUrl": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/tag/1.0.0",
 			"artifacts": [{
 				"url": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/download/1.0.0/ParticleModuleAddRemoveButton.nupkg",
-				"sha256": "f970aa3ed886ba4e4655621bb1511839f28ec565abd4442ededb91fdf0f54ac6"
+				"sha256": "f970aa3ed886ba4e4655621bb1511839f28ec565abd4442ededb91fdf0f54ac6",
+				"installLocation" : "/MonkeyLoader/Mods"
 			}]
 		},
 		"1.0.1": {
 			"releaseUrl": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/tag/1.0.1",
 			"artifacts": [{
 				"url": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/download/1.0.1/ParticleModuleAddRemoveButton.nupkg",
-				"sha256": "186e999315213349da2f629b4dd23e97d05d32c30031126c8f1b5f9430d40547"
+				"sha256": "186e999315213349da2f629b4dd23e97d05d32c30031126c8f1b5f9430d40547",
+				"installLocation" : "/MonkeyLoader/Mods"
 			}]
 		},
 		"1.0.2": {
 			"releaseUrl": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/tag/1.0.2",
 			"artifacts": [{
 				"url": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/download/1.0.2/ParticleModuleAddRemoveButton.nupkg",
-				"sha256": "1315bdccc67db596a25d9ca9fc02924ca1a5330e6326bad678d964d4b80fcd6a"
+				"sha256": "1315bdccc67db596a25d9ca9fc02924ca1a5330e6326bad678d964d4b80fcd6a",
+				"installLocation" : "/MonkeyLoader/Mods"
 			}]
 		}
 	}
