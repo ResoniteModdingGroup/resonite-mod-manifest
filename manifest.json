@@ -21,6 +21,7 @@
                         "0.1.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "27a6bd122d79f1fae6bc5c6e82ab4795bbdf18c66d98c057badfa4cf639a27aa",
                                     "url": "https://github.com/ResoniteModdingGroup/ArrayEditing/releases/download/v0.1.0/ArrayEditing.nupkg"
                                 }
@@ -30,6 +31,7 @@
                         "1.0.1": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "277011c782882ff6b67691364809b25e237faa2bd482a274cb96678796abd1be",
                                     "url": "https://github.com/ResoniteModdingGroup/ArrayEditing/releases/download/v1.0.1/ArrayEditing.nupkg"
                                 }
@@ -47,6 +49,7 @@
                         "2.0.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "509f71ae352e8881dea221fb266f061455c85baa0eeaf09c4c331d605e4c0b32",
                                     "url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.0.0/BoundedUIX.nupkg"
                                 }
@@ -72,6 +75,7 @@
                         "0.5.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "653ef0fae4b0f021ea68bc682c1f6bad2e6f31e774b0c3c4d05f43a08debbe7f",
                                     "url": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection/releases/download/v0.5.0/CommunityBugFixCollection.nupkg"
                                 }
@@ -81,6 +85,7 @@
                         "0.6.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "451ec750097592efc55b819427d4b518c8f9c4cf1a4c280136ceb87f7fe7986a",
                                     "url": "https://github.com/ResoniteModdingGroup/CommunityBugFixCollection/releases/download/v0.6.0/CommunityBugFixCollection.nupkg"
                                 }
@@ -98,6 +103,7 @@
                         "0.7.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "38a23fe6131754570e182b30a956c755321e8d234628dc213332248abe2e69b4",
                                     "url": "https://github.com/ResoniteModdingGroup/ComponentSelectorAdditions/releases/download/v0.7.0/ComponentSelectorAdditions.nupkg"
                                 }
@@ -107,6 +113,7 @@
                         "0.9.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "4b433dcd92fef5fab74287cdc26b166152380297f56f172dfae5ea435f4ef582",
                                     "url": "https://github.com/ResoniteModdingGroup/ComponentSelectorAdditions/releases/download/v0.9.0/ComponentSelectorAdditions.nupkg"
                                 }
@@ -124,6 +131,7 @@
                         "0.6.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "9878d239bc57bed92cfe549a906f150ef13d050d107110aaff6374a2e2862703",
                                     "url": "https://github.com/ResoniteModdingGroup/FlexibleContactsSort/releases/download/v0.6.0/FlexibleContactSorting.nupkg"
                                 }
@@ -141,6 +149,7 @@
                         "0.1.1": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "b73a8f7eaf4453135a9a8b770970da6bc1a973f5e318c649919e7de0a43b5abd",
                                     "url": "https://github.com/ResoniteModdingGroup/InspectorPowerTools/releases/download/v0.1.1/InspectorPowerTools.nupkg"
                                 }
@@ -161,6 +170,7 @@
                         "3.1.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "b019b5fbf623cd09adc2a31042e30110a455b86023f85e1a5645b18fdd04507d",
                                     "url": "https://github.com/ResoniteModdingGroup/TypePicker/releases/download/v3.1.0/TypePicker.nupkg"
                                 }
@@ -178,6 +188,7 @@
                         "1.0.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "fb52431a4c5ef8403d662190d8ed72a858ce85622ccee022640a566c45fa0f0f",
                                     "url": "https://github.com/ResoniteModdingGroup/VanillaTooltips/releases/download/v1.0.0/VanillaTooltips.nupkg"
                                 }
@@ -195,6 +206,7 @@
                         "0.1.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "f7f2664a1175eff14c5877757da149e02d612850f28979f87e3e2bed5c20db7a",
                                     "url": "https://github.com/ResoniteModdingGroup/WikiIntegration/releases/download/v0.1.0/WikiIntegration.nupkg"
                                 }
@@ -204,6 +216,7 @@
                         "0.6.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "b6e7308ea8600baa443bd12c242de3a490b2697618ad27443cf8d3c920cdc41c",
                                     "url": "https://github.com/ResoniteModdingGroup/WikiIntegration/releases/download/v0.6.0/WikiIntegration.nupkg"
                                 }
@@ -230,6 +243,7 @@
                         "1.1.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "6c9d1744a967ef59c9263847256880d003712ab117750209db72237b0344e19e",
                                     "url": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/download/1.1.0/DistantComponentOptimizer.nupkg"
                                 }
@@ -239,6 +253,7 @@
                         "1.1.1": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "7b1c25832932a6fa1ea9666da50e15fcc19091d0e9d6117ffdd5e739eddb86c6",
                                     "url": "https://github.com/Nytra/ResoniteDistantComponentOptimizer/releases/download/1.1.1/DistantComponentOptimizer.nupkg"
                                 }
@@ -256,6 +271,7 @@
                         "1.0.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "f970aa3ed886ba4e4655621bb1511839f28ec565abd4442ededb91fdf0f54ac6",
                                     "url": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/download/1.0.0/ParticleModuleAddRemoveButton.nupkg"
                                 }
@@ -265,6 +281,7 @@
                         "1.0.1": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "186e999315213349da2f629b4dd23e97d05d32c30031126c8f1b5f9430d40547",
                                     "url": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/download/1.0.1/ParticleModuleAddRemoveButton.nupkg"
                                 }
@@ -274,6 +291,7 @@
                         "1.0.2": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "1315bdccc67db596a25d9ca9fc02924ca1a5330e6326bad678d964d4b80fcd6a",
                                     "url": "https://github.com/Nytra/ResoniteParticleModuleAddRemoveButton/releases/download/1.0.2/ParticleModuleAddRemoveButton.nupkg"
                                 }
@@ -294,6 +312,7 @@
                         "1.0.0": {
                             "artifacts": [
                                 {
+                                    "installLocation": "/MonkeyLoader/Mods",
                                     "sha256": "9001338e9ffc09d59bb455b71b4e318508a5c9b899df0621bed57ec53ffc5a44",
                                     "url": "https://github.com/Nytra/ResoniteUserInspectorFix/releases/download/v1.0.0/UserInspectorFix.nupkg"
                                 }
