@@ -1,0 +1,16 @@
+{
+	"name": "ShowmanTools",
+	"id": "ShowmanTools",
+	"description": "Adds the ability to stream (voice) audio into unfocused worlds and other useful abilities to make streaming Resonite more convenient.",
+	"category": "Audio",
+	"sourceLocation": "https://github.com/ResoniteModdingGroup/ShowmanTools",
+	"versions": {
+		"0.1.0": {
+			"releaseUrl": "https://github.com/ResoniteModdingGroup/ShowmanTools/releases/tag/v0.1.0",
+			"artifacts": [{
+				"url": "https://github.com/ResoniteModdingGroup/ShowmanTools/releases/download/v0.1.0/ShowmanTools.nupkg",
+				"sha256": "3813679cd1160bba74dc40b845c512196e0259c4a4688efbfbfa6026251657f3"
+			}]
+		}
+	}
+}
